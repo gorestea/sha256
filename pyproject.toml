@@ -1,0 +1,8 @@
+[tool.nitpick]
+style = 'https://gitea.radium.group/radium/project-configuration'
+
+[tool.flake8]
+max-line-length = 79
+
+[tool.pylint.MASTER]
+max-line-length = 79
