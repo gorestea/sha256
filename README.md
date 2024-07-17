@@ -6,7 +6,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://your-repo-url.git
+    git clone https://github.com/gorestea/sha256
     cd sha256
     ```
 
